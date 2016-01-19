@@ -1,0 +1,3 @@
+In this project, we built a database system (Bruinbase) to manage more than 12,000 movie information and handle users' SQL queries. Besides, we implemented B+Tree index in Bruinbase with C++ for more efficient query processing. It is worth mentioning that loading index for data of xlarge may take about 60 seconds in our case. After that,the index will work correctly.
+
+Contact Information: Ziyun Ye email : yeziyunzju@hotmail.com
